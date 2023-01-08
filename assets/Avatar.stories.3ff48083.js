@@ -1,0 +1,2 @@
+import{A as t}from"./index.df2e7644.js";import"./index.cc189d5e.js";import"./iframe.801d0be4.js";import"./index.041607b3.js";import"./jsx-runtime.5e064759.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/guilherme-santos08.png",alt:"Guilherme Ribeiro"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.3ff48083.js.map
